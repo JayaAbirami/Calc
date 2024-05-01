@@ -126,9 +126,10 @@ else {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-05-01 213537](https://github.com/JayaAbirami/Calc/assets/151487010/d0f29490-70cb-4b05-8488-b5a6d9b9b741)
 
-![alt text](<Screenshot 2024-05-01 213537.png>)
-![alt text](<Screenshot 2024-05-01 213550.png>)
+![Screenshot 2024-05-01 213550](https://github.com/JayaAbirami/Calc/assets/151487010/dd4b8b4d-3bfc-4a76-a18f-a7fbc63d9b4b)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
